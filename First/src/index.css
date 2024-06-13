@@ -1,0 +1,13 @@
+:root{
+  --mainColor: #fff;
+  --mainLightColor: rgb(206, 222, 232);
+  --mainDimColor: lightgrey;
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
