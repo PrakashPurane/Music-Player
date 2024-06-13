@@ -31,7 +31,7 @@ function App() {
 
   let avatarClass = ["objectFitCover", "objectFitContain", "none"];
   const [avatarClassIndex, setAvatarClassIndex] = useState(0);
-  const [musicTotalLength, setMusicTotalLength] = useState("00 : 00");
+  const [musicTotalLength, setMusicTotalLength] = useState("05 : 04");
   const [musicCurrentTime, setMusicCurrentTime] = useState("00 : 00");
   const [videoIndex, setVideoIndex] = useState(0);
   // const [videoIndex, setVideoIndex] = useState(0);
